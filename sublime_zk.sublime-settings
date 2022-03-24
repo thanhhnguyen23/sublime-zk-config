@@ -1,0 +1,12 @@
+{
+// Insert note titles next to links when linking a note frome another
+"insert_links_with_titles": true,
+// Template for new notes
+"new_note_template":
+"---\nnote-id: {id}\ntitle: {title}\ndate: {timestamp: %Y-%m-%d}\ntags: \n---\n\n# [{title}]\n# [Summary]\n# [References]\n\n\n",
+
+// "color_scheme": "Packages/sublime_zk/Monokai Extended-zk.tmTheme",
+"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+
+"citations-mmd-style": false,
+}
